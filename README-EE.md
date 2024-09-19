@@ -10,6 +10,5 @@ I am in my third year of fellowship and for the past year have been working on a
 Of course I am hoping to learn the basics of [Python](https://www.python.org) to see if it is something I want to use in my data analysis. It would also be very helpful to me to have some discussion comparing the utility/functionality of R vs Python, particularly for bioinformatics. 
 
 ## Special Items for Assignment 2
-Please find here an [image of pandas installation in codespace](/workspaces/datasci-217-getting-into-git-github-starter-course/assignment2_venv/Screenshot 2024-09-19 at 3.56.53 PM.png).
-I get a lot of parenting memes on my instagram - this one was pretty funny!
-(https://www.instagram.com/reel/C-ifKW9PtPh/?igsh=NzgyYTk0Y2YyNg%3D%3D)
+Please find here an [image of pandas installation in codespace](https://github.com/erica892/datasci-217-getting-into-git-github-starter-course/blob/main/Images/Screenshot%202024-09-19%20at%203.56.53%E2%80%AFPM.png).
+As a previously described mom of two toddlers, I always appreciate a good parenting meme: (https://mymerrymessylife.com/wp-content/uploads/2019/12/toddlers-delete-itunes.jpg)
